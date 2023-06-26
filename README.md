@@ -4,7 +4,7 @@
 
 Deploy feito no site netlify em sua versão gratuita, por isso a lentidão.
 
-https://foodrocket1.netlify.app
+https://foodexplorer1.netlify.app
 
 ## Informações de login como admin:
 

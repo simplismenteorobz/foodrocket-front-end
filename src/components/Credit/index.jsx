@@ -1,4 +1,4 @@
-import { Container, OtherInformation } from '/style'
+import { Container, OtherInformation } from './style'
 
 import { Button } from '../Button'
 

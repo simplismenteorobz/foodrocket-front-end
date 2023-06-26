@@ -17,7 +17,7 @@ import { api } from "../../services/api";
 export const Header = ({ handleShowFavorites, allQuantity, setPlates , favoriteTitle='Favoritos'}) => {
   const navigate = useNavigate()
 
-  const {signOut} = useAuth()
+  const { signOut } = useAuth()
   const [ search,setSearch ] = useState('')
 
   const [active, setActive] = useState(false)

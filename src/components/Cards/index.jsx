@@ -4,7 +4,7 @@ import { ButtonTransparrent } from '../ButtonTransparent'
 import { Button } from '../Button'
 
 import { useNavigate } from "react-router-dom"
-import { useState,useEffect } from "react"
+import { useState } from "react"
 
 import { AiFillHeart, AiOutlineHeart } from 'react-icons/ai'
 import { api } from "../../services/api"

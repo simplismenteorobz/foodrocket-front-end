@@ -11,7 +11,6 @@ export const CardsAdmin = ({title, id, img, price, description, ...rest}) => {
 
   const navigate = useNavigate()
 
-  // Change to page details using route params
   const handleDetails = () => {
     navigate(`/att/${id}`)
   }
@@ -28,7 +27,6 @@ export const CardsAdmin = ({title, id, img, price, description, ...rest}) => {
     }
 
   }
-
 
   return(
     <Container {...rest}>
